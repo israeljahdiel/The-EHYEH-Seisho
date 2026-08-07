@@ -17,4 +17,5 @@ Like Father Like Son
 Structure for Habrit Khadasha complete
 
 ToDo: Add Structure for Tanakh
+
 ToDo: Change EH'YEH back to Elohim for "quoted" text in Habrit Khadasha
