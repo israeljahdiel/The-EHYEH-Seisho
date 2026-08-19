@@ -14,21 +14,11 @@ Like Father Like Son
 
 
 
-Structure for Habrit Khadasha complete
-
-ToDo:	Add Structure for Tanakh;
-
-&#x09;Change EHYEH back to Elohim for "quoted" text in Habrit Khadasha
+Attempting to Combine the 4 Gospels of the New Testament into 1 Cohesive Book
 
 
 
 
 
-
-
-UPDATED THE STRUCTURE TO MORE CLOSELY MATCH THE ORIGINAL TANAKH;
-
-MATCHED THE PATTERN FOR HABRIT KHADASHA;
-
-(45 BOOKS IN TOTAL)
+Still working on uploading the original Old Testament while modifying "God" and "Adonai" to "EHYEH" and "YIHOVEH"
 
