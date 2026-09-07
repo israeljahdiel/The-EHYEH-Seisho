@@ -12,13 +12,17 @@ Like Father Like Son
 
 
 
-
-
-Attempting to Combine the 4 Gospels of the New Testament into 1 Cohesive Book
-
+The Entire Bible is uploaded and ready for modification: Japanese, Hebrew, English
 
 
 
 
-Still working on uploading the original Old Testament while modifying "God" and "Adonai" to "EHYEH" and "YIHOVEH"
+
+
+
+Source: CJB for English; 口語訳(1955) for Japanese; and for Hebrew:
+
+
+
+תנ"ך וברית חדשה בתרגום מודני
 
